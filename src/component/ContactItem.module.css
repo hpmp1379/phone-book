@@ -1,0 +1,22 @@
+img {
+  width: 50px;
+}
+
+.box {
+  border: 1px solid #eee;
+  padding: 12px;
+  margin: 5px 0;
+}
+
+.text {
+  padding-top: 10px;
+}
+.text > * {
+  /* line-height: 1; */
+}
+
+p {
+  line-height: 1;
+  margin-bottom: 5px;
+  color: red;
+}

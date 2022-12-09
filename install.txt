@@ -1,0 +1,18 @@
+redux
+redux.js.org
+yarn add redux
+
+react redux
+react-redux-js.org
+yarn add react-redux
+
+react bootstrap
+yarn add react-bootstrap bootstrap
+-grid
+
+postcss module 적용하기
+
+일반 태그 (div, img) 바로 적용
+class 는 import 된 파일 변수뒤에 .name 를 적용해야된다
+import variable from './style.module.css';
+<div className= { variable.name }>
