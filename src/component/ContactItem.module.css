@@ -1,5 +1,5 @@
 img {
-  width: 50px;
+  height: 60px;
 }
 
 .box {
@@ -18,5 +18,5 @@ img {
 p {
   line-height: 1;
   margin-bottom: 5px;
-  color: red;
+  color: gray;
 }
